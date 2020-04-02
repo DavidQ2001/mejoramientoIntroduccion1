@@ -24,6 +24,64 @@ h1{
     font-weight: bold;
 
 }
-
-
+h1{
     
+    color: blue;
+    
+} 
+div p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    
+
+}
+div section article p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+
+}
+div section p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+img{
+
+    height: 500px;
+    width: 1225px;
+}
+div p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    
+
+}
+div section article p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+
+}
+div section p{
+    font-size: 20px;
+    font-weight: bold;
+    
+
+    }
